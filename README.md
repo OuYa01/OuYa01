@@ -3,8 +3,6 @@
 <h1 align="center">Hi, I'm Oussama laamri</h1>
 <h3 align="center">I’m interested in programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ouya01&label=Profile%20views&color=0e75b6&style=flat" alt="ouya01" /> </p>
-
 - 🌱 I’m currently learning **software development**
 
 - 📫 How to reach me **laamri2002@gmail.com**
