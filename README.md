@@ -2,8 +2,6 @@
 <h1 align="center">Hi, I'm Oussama laamri</h1>
 <h3 align="center">I’m interested in programming</h3>
 
-- 🌱 I’m currently learning **software development**
-
 - 📫 How to reach me **laamri2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
