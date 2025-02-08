@@ -31,8 +31,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouya01&layout=compact&theme=default" alt="Top Languages" width = 200px />
-  <img src="https://github-readme-stats.vercel.app/api?username=ouya01&show_icons=true&theme=default" alt="GitHub Stats"  width = 260px />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouya01&layout=compact&theme=default" alt="Top Languages" width = 240px />
+  <img src="https://github-readme-stats.vercel.app/api?username=ouya01&show_icons=true&theme=default" alt="GitHub Stats"  width = 315px />
 </p>
 
 
