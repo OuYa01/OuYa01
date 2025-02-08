@@ -26,11 +26,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
+</div>
 
 ### 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouya01&layout=compact&theme=default)](https://github.com/ouya01)
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ouya01&show_icons=true&theme=default)](https://github.com/ouya01)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouya01&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ouya01&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
 
-</div>
+
