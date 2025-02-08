@@ -2,9 +2,9 @@
   
 # Hey there! 👋 I'm Oussama Laamri
 
-### Computer Science Student & Tech Enthusiast
+### Computer Science Student
 
-📧 **Reach me:** [laamri2002@gmail.com](mailto:laamri2002@gmail.com)
+📧 **Reach me:** [oussama.laamri.57@edu.uiz.ac.ma](mailto:oussama.laamri.57@edu.uiz.ac.ma)
 
 ---
 
