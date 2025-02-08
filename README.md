@@ -12,7 +12,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/oussamalaamri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-laamri-9619b0216/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ous.ouy)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCXMTbYe7Vyfji0KhvrGY5UQ)](https://www.youtube.com/@Yassuo4war)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/661636085012758586)
 
 ---
