@@ -19,11 +19,11 @@
 
 ### 💻 Tech & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Js](https://img.shields.io/badge/Javascript-007396?style=flat&logo=javascript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
+[![Js](https://img.shields.io/badge/Javascript-f4e225?style=flat&logo=javascript&logoColor=white)](https://simple.wikipedia.org/wiki/JavaScript)
+[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
 
 ---
 </div>
